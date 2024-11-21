@@ -50,6 +50,6 @@ A experiência de utilizar IA para desenvolver este projeto foi incrível. A fer
 
 Acompanhe meu progresso e contribua com feedbacks! Estou ansioso para compartilhar conhecimento e aprender com a comunidade.  
 📩 Entre em contato: [amagicadocascalho@gmail.com](mailto:amagicadocascalho@gmail.com)  
-🌐 Redes sociais: [Veja meu Linkedin](linkedin.com/in/evandro-rosa-lopes-0a3913212)
+🌐 Redes sociais: [Veja meu Linkedin](https://www.linkedin.com/in/evandro-rosa-lopes-0a3913212/)
 Muito obrigado!
 **#BootcampCaixaIAGenerativa #EducaçãoComIA**
