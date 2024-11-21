@@ -21,6 +21,8 @@ Este ebook apresenta **10 dicas essenciais** para melhorar a forma como você ap
 
 O conteúdo foi criado com o auxílio de IA, garantindo que o material fosse elaborado com foco em clareza, organização e aplicabilidade.
 
+👉 [Acesse o PDF do ebook aqui](https://almostreal/ebook-pdf/Roboto.pdf)
+
 ## 🤖 Tecnologias Utilizadas
 
 - **Microsoft Copilot**: para estruturar ideias e desenvolver o conteúdo.
