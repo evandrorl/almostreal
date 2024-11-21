@@ -3,7 +3,7 @@
 ## 🚀 Introdução
 
 > Fala galera, eu sou **Evandro Rosa Lopes** e estou participando do bootcamp **CAIXA - IA Generativa com Microsoft Copilot**!  
-Neste repositório, compartilho meu projeto para o desafio: um **ebook com 10 dicas práticas para turbinar seus estudos**. Com o apoio de IA generativa, desenvolvi um conteúdo leve e direto para ajudar você a aprender de forma mais eficiente e reter mais informações.
+Neste repositório, compartilho meu projeto para o desafio: um **ebook com 5 dicas práticas para turbinar seus estudos**. Com o apoio de IA generativa, desenvolvi um conteúdo leve e direto para ajudar você a aprender de forma mais eficiente e reter mais informações.
 
 ## 🎯 Objetivos
 
@@ -49,7 +49,7 @@ A experiência de utilizar IA para desenvolver este projeto foi incrível. A fer
 ---
 
 Acompanhe meu progresso e contribua com feedbacks! Estou ansioso para compartilhar conhecimento e aprender com a comunidade.  
-📩 Entre em contato: [seu-email@dominio.com](mailto:amagicadocascalho@gmail.com)  
-🌐 Redes sociais: [Seu LinkedIn](linkedin.com/in/evandro-rosa-lopes-0a3913212)
+📩 Entre em contato: [amagicadocascalho@gmail.com](mailto:amagicadocascalho@gmail.com)  
+🌐 Redes sociais: [Veja meu Linkedin](linkedin.com/in/evandro-rosa-lopes-0a3913212)
 Muito obrigado!
 **#BootcampCaixaIAGenerativa #EducaçãoComIA**
