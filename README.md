@@ -24,22 +24,21 @@ O conteúdo foi criado com o auxílio de IA, garantindo que o material fosse ela
 👉 [Acesse o PDF do ebook aqui](https://github.com/evandrorl/almostreal/blob/main/ebook-pdf/Roboto.pdf)
 
 ## 🤖 Tecnologias Utilizadas
-
-- **Microsoft Copilot**: para estruturar ideias e desenvolver o conteúdo.
-- **IA Generativa**: para criação e refinamento do texto.
+- **ChatGpt**: para estruturar ideias e desenvolver o conteúdo  e criar o prompt pra rodar no copilot.
+- **Microsoft Copilot**: redação do ebook e geração das imagens.
 - **Markdown**: para organização e formatação do repositório.
-- Ferramentas de edição de texto e design para finalizar o ebook.
+- **Canvas**: para estruturação e diagramação do e-book.
 
 ## 🧐 Processo de Criação
 
 1. **Planejamento**: defini os tópicos principais com base em dificuldades comuns nos estudos.
-2. **Pesquisa**: busquei referências confiáveis e ferramentas práticas para cada dica.
-3. **Criação**: com o auxílio de IA, elaborei os textos e organizei o conteúdo.
+2. **Pesquisa**: usei o ChatGpt e o copilot para organizar as pesquisas.
+3. **Criação**: com o auxílio do Copilot, elaborei os textos e organizei o conteúdo.
 4. **Revisão**: refinei o material com base no feedback e preparei para publicação.
 
 ## 🚀 Resultados
 
-- Um ebook de **10 páginas** com dicas simples e eficazes para estudar melhor.
+- Um ebook de **8 páginas** com dicas simples e eficazes para estudar melhor.
 - Conteúdo prático que pode ser aplicado por qualquer pessoa.
 - Design limpo e moderno, ideal para leitura digital.
 
@@ -50,7 +49,7 @@ A experiência de utilizar IA para desenvolver este projeto foi incrível. A fer
 ---
 
 Acompanhe meu progresso e contribua com feedbacks! Estou ansioso para compartilhar conhecimento e aprender com a comunidade.  
-📩 Entre em contato: [seu-email@dominio.com](mailto:seu-email@dominio.com)  
-🌐 Redes sociais: [Seu LinkedIn](https://linkedin.com/in/seuperfil)
+📩 Entre em contato: [seu-email@dominio.com](mailto:amagicadocascalho@gmail.com)  
+🌐 Redes sociais: [Seu LinkedIn](linkedin.com/in/evandro-rosa-lopes-0a3913212)
 
 **#BootcampCaixaIAGenerativa #EducaçãoComIA**
